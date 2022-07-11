@@ -1,0 +1,296 @@
+header
+{
+ background-color: rgb(203,225,205);
+ width: 23%;
+ height: 20%;
+ padding-left: 30px;
+ margin-left: auto;
+ margin-right: auto;
+}
+img
+{
+	display: block;
+	margin-left: 55%;
+	position: absolute;
+	top: 100px;
+}
+h1
+{
+	font-size: 30px;
+}
+h2
+{
+	position: absolute;
+	top: 320px;
+	left:265px;
+	font-size: 20px;
+
+}
+#Conteneur
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+	position: relative;
+	top: 200px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+.element
+{
+	width: 40%;
+	min-width: 600px;
+	border-bottom:1px solid black;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	font-size: 25px;
+	padding-bottom: 25px;
+}
+
+ul
+{
+	font-weight: bold;
+	color: orange;
+	position: relative;
+	right: 15px; 
+}
+li
+{
+	list-style-type: none;
+}
+#generalité
+{
+	width: 80%;
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	top: 250px;
+	border-bottom: 2px solid rgb(203,225,205);
+	;
+
+	}
+.general
+{
+	width: 20%;
+	min-width: 400px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	font-size: 25px;
+	padding-bottom: 25px;
+	border-left: 1px dotted orange;
+	border-bottom: 1px dotted orange
+	
+}
+
+h3
+{
+	font-size: 25px;
+	color: orange;
+}
+
+
+#liseret
+{
+	width: 115px;
+	height:3px;
+	background-color: orange;
+	position:absolute;
+	top:12%;
+	left:39.4%;
+}
+#liseret1
+{
+	width: 180px;
+	height:2px;
+	background-color: orange;
+	position:absolute;
+	top:350px;
+	left:1%;
+	margin-left: 1%;
+}
+#liseret2
+{
+	width: 2px;
+	height:600px;
+	background-color: orange;
+	position:absolute;
+	top:350px;
+	left:1%;
+	margin-left: 1%;
+}
+#liseret77
+{
+	width: 1px;
+	height:205px;
+	background-color: black;
+	position:absolute;
+	top:409px;
+	left:198px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 1px;
+	height:175px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:198px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 1px;
+	height:200px;
+	background-color: black;
+	position:absolute;
+	top:414px;
+	left:1130px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 1px;
+	height:175px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:1130px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 1px;
+	height:205px;
+	background-color: black;
+	position:absolute;
+	top:409px;
+	left:798px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 1px;
+	height:175px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:798px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 1px;
+	height:200px;
+	background-color: black;
+	position:absolute;
+	top:414px;
+	left:1730px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 1px;
+	height:175px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:1730px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:409px;
+	left:198px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:409px;
+	left:628px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:198px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:628px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:413px;
+	left:1130px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:413px;
+	left:1561px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:1130px;
+	margin-left: 50px;
+}
+#liseret77
+{
+	width: 170px;
+	height:1px;
+	background-color: black;
+	position:absolute;
+	top:705px;
+	left:1560px;
+	margin-left: 50px;
+}
+
+
+@media screen and (max-width: 991px)  {#liseret{
+
+	display: none;
+	}
+}
