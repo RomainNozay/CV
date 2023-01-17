@@ -1,18 +1,20 @@
 header
 {
  background-color: rgb(203,225,205);
- width: 23%;
- height: 20%;
+ width: 30%;
+ height: 230px;
  padding-left: 30px;
- margin-left: auto;
- margin-right: auto;
+ margin-left: 32%;
+}
+.presentation{
+	margin-top: 10px;
 }
 img
 {
 	display: block;
 	margin-left: 55%;
 	position: absolute;
-	top: 100px;
+	top: 140px;
 }
 h1
 {
@@ -33,7 +35,7 @@ h2
 	justify-content: space-around;
 	align-content: space-around;
 	position: relative;
-	top: 200px;
+	top: 100px;
 	margin-left:auto;
 	margin-right: auto;
 }
@@ -103,9 +105,7 @@ h3
 	width: 115px;
 	height:3px;
 	background-color: orange;
-	position:absolute;
-	top:12%;
-	left:39.4%;
+	margin-top: -15px;
 }
 #liseret1
 {
@@ -286,11 +286,4 @@ h3
 	top:705px;
 	left:1560px;
 	margin-left: 50px;
-}
-
-
-@media screen and (max-width: 991px)  {#liseret{
-
-	display: none;
-	}
 }
