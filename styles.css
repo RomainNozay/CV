@@ -51,13 +51,20 @@ h2
 }
 .competences{
 	border-left: 2px solid orange;
-    height: 600px;
+    height: 400px;
     display: flex;
     position: relative;
     bottom: 72px;
     margin-left: 3%;
 	justify-content: space-evenly;
 	align-items: center;
+}
+.liste{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+	position: relative;
+	bottom: 20px;
 }
 .element
 {
@@ -67,7 +74,7 @@ h2
     justify-content: center;
     align-items: center;
 	font-size: 25px;
-	height: 300px;
+	height: 220px;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 	border-bottom: 1px solid black;
@@ -76,7 +83,7 @@ h2
 	display: flex;
 	align-items: center;
 	position: relative;
-	bottom: 63px;
+	bottom: 24px;
 	justify-content: space-between;
 	width: 100%;
 }
